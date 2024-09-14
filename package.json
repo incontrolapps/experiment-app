@@ -18,6 +18,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"swa": "^0.1.1"
+		"watchman": "^1.0.0"
 	}
 }
