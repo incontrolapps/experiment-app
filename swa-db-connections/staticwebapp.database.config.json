@@ -2,7 +2,7 @@
   "$schema": "https://github.com/Azure/data-api-builder/releases/download/v1.1.7/dab.draft.schema.json",
   "data-source": {
     "database-type": "mysql",
-    "connection-string": "",
+    "connection-string":"Server=tcp:svelte-test.database.windows.net,1433;Initial Catalog=svelte-test;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;Authentication='Active Directory Default'",
     "options": {}
   },
   "runtime": {
