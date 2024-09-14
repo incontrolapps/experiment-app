@@ -16,5 +16,8 @@
 		"svelte-adapter-azure-swa": "^0.20.1",
 		"vite": "^5.0.3"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"swa": "^0.1.1"
+	}
 }
