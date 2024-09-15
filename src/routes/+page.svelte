@@ -18,11 +18,11 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		to Tim's new<br />SvelteKit app
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
+		next steps are to link to a database by editing <strong>src/routes/+page.svelte</strong>
 	</h2>
 
 	<Counter />
