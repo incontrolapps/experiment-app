@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to Tim's new<br />SvelteKit app
+		to Miles's new<br />SvelteKit app
 	</h1>
 
 	<h2>
